@@ -4,14 +4,14 @@
 }
 
 body {
-  background-color: pink;
+  background-color: #ffc0cb;
 }
 
 div.form {
   width: 300px;
   padding: 10px;
   margin: auto;
-  background-color: black;
+  background-color: #000000;
   border-radius: 10px;
   text-align: center;
   position: relative;
@@ -19,15 +19,14 @@ div.form {
 }
 
 div.form f\orm input[type="text"] {
-  background-color: rgb(95, 89, 89);
+  background-color: #5f5959;
   border: none;
   outline: none;
   width: 95%;
   padding: 10% 3%;
   text-align: right;
-  color: white;
+  color: #fff;
   font-size: 4em;
-
 }
 
 div.form form input[type="button"] {
@@ -46,7 +45,6 @@ div.form form input[type="button"].ac {
   border-bottom-right-radius: 25px;
 }
 
-
 div.form form input[type="button"].z {
   width: 130px;
   border-top-right-radius: 25px;
@@ -56,13 +54,13 @@ div.form form input[type="button"].z {
 }
 
 .or {
-  background-color: orange;
-  color: white;
+  background-color: #ffa500;
+  color: #fff;
 }
 
 .n {
-  background-color: rgb(106, 94, 94);
-  color: white;
+  background-color: #6a5e5e;
+  color: #fff;
 }
 
 .button {
