@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #ffc0cb;
+}
+
+div.form {
+  width: 300px;
+  padding: 10px;
+  margin: auto;
+  background-color: #000;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  top: 65px;
+}
+
+div.form f\orm input[type="text"] {
+  background-color: #5f5959;
+  border: none;
+  outline: none;
+  width: 95%;
+  padding: 10% 3%;
+  text-align: right;
+  color: #fff;
+  font-size: 4em;
+}
+
+div.form form input[type="button"] {
+  width: 65px;
+  height: 65px;
+  font-size: 1.5em;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+div.form form input[type="button"].ac {
+  width: 202px;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+div.form form input[type="button"].z {
+  width: 130px;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.or {
+  background-color: #ffa500;
+  color: #fff;
+}
+
+.n {
+  background-color: #6a5e5e;
+  color: #fff;
+}
+
+.button {
+  width: 5rem;
+  height: 3rem;
+  border-radius: 50rem;
+}
